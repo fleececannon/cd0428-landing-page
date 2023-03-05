@@ -1,13 +1,17 @@
-# Landing Page Project
+Manipulating the DOM
+This project is an exercise in manipulating the DOM using JavaScript. It builds a navigation menu dynamically based on the number of sections in the HTML file, scrolls to the corresponding section when a menu item is clicked, and highlights the active section in the viewport as the user scrolls.
 
-## Table of Contents
+Dependencies
+This project has no external dependencies.
 
-* [Instructions](#instructions)
+Technologies Used
+HTML5
+CSS3
+JavaScript (ES6)
+Getting Started
+To get started with the project, simply download the code files and open index.html in a web browser.
 
-## Instructions
+Usage
+The navigation menu is built dynamically based on the number of sections in the HTML file. When a menu item is clicked, the page will scroll to the corresponding section.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+As the user scrolls, the active section in the viewport will be highlighted in both the section and the the navigation menu.
